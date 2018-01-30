@@ -7,6 +7,7 @@
 * [Config for yeoman-angular apps deploy on codeship to Github pages](./yeoman-codeship-gh-pages-guide.md)
 * [Config for Codeship rsync deploy](./rsync-codeship-deploy.md)
 * [MongoDB user roles](./MongoDB.md)
+* [Node >=8 migration in codeship](./node8-codeship.md)
 
 
 # Resources
